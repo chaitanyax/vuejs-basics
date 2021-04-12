@@ -64,7 +64,7 @@ v-model.trim
 v-model.number
 v-model.lazy
 ```
-### V-SHOWV-IF/ V-ELSE
+### V-SHOW V-IF/ V-ELSE
 1. Is a conditional that will display information depending on meeting a requirement. This can be anything- buttons, forms, divs, components.
 
 ### V-BIND: or :
